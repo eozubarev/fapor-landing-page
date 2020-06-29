@@ -1,0 +1,23 @@
+{
+  "name": "fapor_landing_page",
+  "version": "1.0.0",
+  "description": "web_template",
+  "main": "index.js",
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "autoprefixer": "^9.7.4",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "postcss-modules": "^1.5.0",
+    "sass": "^1.25.0"
+  },
+  "scripts": {
+    "dev": "parcel ./index.html --open --port 3000",
+    "build": "parcel build ./index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Finohenov Bohdan",
+  "license": "ISC"
+}
