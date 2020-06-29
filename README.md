@@ -1,6 +1,6 @@
 ### Hello. My name is Evgeny Zubarev i am junior Frontend Developer. 
 
-#### This is my intership project Landing-page 11/2019 (name of [Fapor-landing-page](https://eozubarev.github.io/fapor-landing-page/)).
+#### This is my internship project Landing-page 11/2019 (name of [Fapor-landing-page](https://eozubarev.github.io/fapor-landing-page/)).
 
 * Technology stack:
  1. HTML
